@@ -7,6 +7,12 @@
     <groupId>groupId</groupId>
     <artifactId>Algorithms</artifactId>
     <version>1.0-SNAPSHOT</version>
+	<properties>
+  <sonar.projectKey>suren1290_CodeGuruTest</sonar.projectKey>
+  <sonar.organization>suren1290</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>cd1192eec57f7dce296d7a9a6b59fdb9161fad0a</sonar.login>
+</properties>
     <build>
         <plugins>
             <plugin>
